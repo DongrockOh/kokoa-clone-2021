@@ -20,3 +20,8 @@
   bottom: 20px;
   left: 70px;
 }
+.screen-header__more-badge {
+  position: absolute;
+  bottom: 20px;
+  left: 122px;
+}

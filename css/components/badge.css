@@ -9,7 +9,8 @@
   color: #fff;
   font-weight: 600;
 }
-.screen-header__sm-badge {
+.screen-header__sm-badge,
+.screen-header__more-badge {
   background-color: tomato;
   width: 5px;
   height: 5px;

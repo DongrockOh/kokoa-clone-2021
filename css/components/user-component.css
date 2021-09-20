@@ -50,3 +50,20 @@
   margin-bottom: 10px;
   display: block;
 }
+.user-component__text {
+  position: relative;
+}
+.user-component_badge {
+  border: 2px solid tomato;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  color: tomato;
+  font-weight: 600;
+  bottom: -1px;
+  left: 123px;
+}

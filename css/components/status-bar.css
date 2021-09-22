@@ -21,5 +21,13 @@
 }
 
 .status-bar__column .fa-battery-full {
-  margin: 0 5px;
+  margin: 0 10px;
+  color: #8fd445;
+  position: relative;
+}
+
+.status-bar__column .fa-bolt {
+  position: absolute;
+  right: 25px;
+  color: var(--yellow);
 }
